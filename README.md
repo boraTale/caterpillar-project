@@ -1,0 +1,1 @@
+Developed a dynamic data structure to model a caterpillar's growth and evolution in Java, focusing on the use of singly linked lists and stacks. Enhanced understanding of algorithm efficiency, critical code evaluation, and advanced programming techniques, culminating in a game simulation that reflects the complexities of data manipulation and object-oriented design.
